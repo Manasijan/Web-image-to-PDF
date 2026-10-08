@@ -15,6 +15,12 @@ A lightweight, zero-install browser utility that extracts images from any active
 3. Switch to the **Console** tab.
 4. Copy the code from [`index.js`](./index.js), paste it into the console, and hit **Enter**.
 5. The PDF will compile and download automatically.
+## ALTERNATIVELY 
+1. Press Ctrl + Shift + B (Windows) or Cmd + Shift + B (Mac) to show your browser's Bookmarks bar.
+2. Right-click any empty spot on the bookmarks bar and click Add page... (or Add Bookmark...).
+3. Set the Name to: *Save to PDF* (or any name you prefer).
+4. In the URL (or Location) field, paste the entire javascript block from the Bookmarklet file.
+5. Click Save.
 
 ## Configuration
 You can customize the options at the bottom of the script:
